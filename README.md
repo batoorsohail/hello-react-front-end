@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# Hello Rails Back End
+# Hello Rails Front End
 
 # 📗 Table of Contents
 
@@ -21,16 +21,16 @@
 
 # 📖Hello Rails Back End <a name="about-project"></a>
 
-**Hello Rails Back End is a random greeting API. I used Ruby On Rails as an API to the front end for [hello-rails-front-end](https://github.com/batoorsohail/hello-react-front-end)**
+**Hello Rails Front End is a random greeting API. I used React for the front end and Ruby on Rails for back [hello-rails-back-end](https://github.com/batoorsohail/hello-react-back-end)**
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-<summary>Ruby</summary>
+<summary>JavaScript</summary>
   <ul>
-    <li><a href="#">Ruby on Rails</a></li>
+    <li><a href="#">React</a></li>
   </ul>
 </details>
 <!-- Features -->
@@ -58,13 +58,13 @@ Clone this repository to your desired folder:
 
 ```sh
   cd <desired-folder>
-  git clone https://github.com/batoorsohail/hello-rails-back-end.git
+  git clone https://github.com/batoorsohail/hello-rails-front-end.git
 ```
 
 ### Install <a name="install"></a>
 
 ```sh
-  cd hello-rails-back-end
+  cd hello-rails-front-end
   bundle install
 ```
 
