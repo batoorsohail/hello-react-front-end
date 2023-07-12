@@ -65,19 +65,13 @@ Clone this repository to your desired folder:
 
 ```sh
   cd hello-react-front-end
-  bundle install
+  npm install
 ```
 
 ### Usage <a name="usage"></a>
 
 ```sh
-  rails s
-```
-
-### Test <a name="test"></a>
-
-```sh
-  rspec spec
+  npm start
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
